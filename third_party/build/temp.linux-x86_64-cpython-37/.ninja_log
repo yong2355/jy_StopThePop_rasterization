@@ -1,0 +1,8 @@
+# ninja log v5
+12	14232	1721649271611580100	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/backward.o	62a89f048b259998
+14	17440	1721649274779608873	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	a8c5099c14bdfb61
+15	33103	1721649290479751463	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	c625480384ea45a3
+16877	25502	1721708949293215250	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	79bb730399f7e779
+16877	38203	1721708961993329221	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	472dd738f6d8c14a
+16878	59240	1721708983025517965	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	c625480384ea45a3
+3148	21113	1721709694047940535	/home/ipa/junyong/StopThePop/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	472dd738f6d8c14a
