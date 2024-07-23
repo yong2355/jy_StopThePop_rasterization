@@ -133,6 +133,7 @@ RasterizeGaussiansCUDA(
 			out_color.contiguous().data<float>(),
 			radii.contiguous().data<int>(),
 			debug);
+		std::cout << "[num_rendered] " << rendered << std::endl;
 	}
 	return std::make_tuple(rendered, out_color, radii, geomBuffer, binningBuffer, imgBuffer);
 }
