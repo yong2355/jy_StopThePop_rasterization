@@ -326,12 +326,12 @@ renderCUDA(
 			float test_T = T * (1 - alpha);
       
       //ERT
-      /*
+      
 			if (test_T < 0.0001f)
 			{
 				done = true;
 				continue;
-			}*/
+			}
 
 			// Eq. (3) from 3D Gaussian splatting paper.
 			for (int ch = 0; ch < CHANNELS; ch++)
