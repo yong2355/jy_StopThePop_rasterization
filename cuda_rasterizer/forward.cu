@@ -204,7 +204,7 @@ __global__ void preprocessCUDA(int P, int D, int M,
 		rgb[idx * C + 1] = result.y;
 		rgb[idx * C + 2] = result.z;
 	}
-
+asdfasdmbnvfmdnasbfasdh
 	if (cov3D_invs != nullptr)
 	{
 		const glm::vec3 mean3D(orig_points[3 * idx], orig_points[3 * idx + 1], orig_points[3 * idx + 2]);
